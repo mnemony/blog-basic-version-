@@ -1,0 +1,17 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: rgba(134, 122, 122, 0.774);
+}
+
+
+.container {
+    background-color: rgba(236, 214, 214, 0.616);
+}
+
+.aiden {
+    font-family: 'Questrial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: aquamarine;
+}
